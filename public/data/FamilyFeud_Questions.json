@@ -1,12 +1,13 @@
 {
-    "What are three platforms UX Researchers use to gather feedback?":[["UserTesting","13"],["DScout","9"],["Qualtrics","6"],["Optimal Workshop","6"],["User Interviews","3"],["Survey Monkey","2"],["User Zoom","1"]],
+    "What are three platforms UX Researchers use to gather feedback?":[["UserTesting","13"],["dscout","9"],["Qualtrics","6"],["Optimal Workshop","6"],["User Interviews","3"],["Survey Monkey","2"],["User Zoom","1"]],
     "List three things someone might say if they’re frustrated with a website or app 🫣":[["It's Confusing","10"],["This Sucks","9"],["Can't Find Anything","7"],["It's Slow / Buggy","4"],["Ugh / Hmm","3"],["Fire the Team","2"],["Too Many Ads","1"],["I Don't Like the Colors","1"]],
     "What is a UXR method you wish stakeholders wouldn’t ask for? 🙄":[["Focus Groups","4"],["Personas","3"],["Any of Them","2"],["Diary Study","2"],["Usability Testing","1"],["Surveys","1"],["NPS","1"]],
-    "What are three important components to a UXR portfolio presentation?":[["Impact","11"],["Research Methodology","6"],["Storytelling & Visuals","5"], ["Project context (higher than storytelling)","5"],["Values & philosophy","3"],["Collaboration & team roles","3"],["Core skills","3"]],
-    "List three of the most annoying corporate phrases. Let it out. 😮‍💨 ":[["Double Click","6"],["Let's Circle Back","5"],["Take This Offline","4"],["Table/ Put a Pin in It","3"],["Can Everyone See My Screen?","2"],["Per My Last Email","2"]],
-    "What’s the worst thing that can happen during an interview for a research study? 😬 ":[["Unqualified participant","3"],["Offensive comments or smells","3"],["Forgetting the interview guide","1"],["Internet crash","1"]],
-    "List three reasons a researcher would move to another job. ":[["Better Pay","11"],["Poor Culture","6"],["Better Stakeholders","3"]],
+    "What are three important components to a UXR portfolio presentation?":[["Impact","11"],["Research Methodology","6"],["Project Context","5"],["Storytelling & Visuals","5"],["Values & philosophy","3"],["Collaboration & Team Roles","3"],["Core Skills","3"],["Key Takeaways & Recommendations","3"] ],
+    "List three of the most annoying corporate phrases. Let it out. 😮‍💨 ":[["Double Click","6"],["Let's Circle Back","5"],["Take This Offline","4"],["Table/ Put a Pin in It","3"],["Can Everyone See My Screen?","2"],["Per My Last Email","2"],["Rockstar or Family","1"]],
+    "What’s the worst thing that can happen during an interview for a research study? 😬 ":[["Unqualified participant","3"],["Offensive comments or smells","3"],["Forgetting the interview guide","1"],["Internet crash","1"],["Participant Goes Off Topic","1"],["Participant Struggles w/ Tech","1"]],
+    "List three reasons a researcher would move to another job. ":[["Better Pay","11"],["Poor Culture","6"],["More Influence/ Impact","5"],["Better Stakeholders","3"],["Mental Health/ Burnout","3"],["Growth & Upskilling","3"],["Laid Off","2"],["RTO Policy","1"]],
+    "What are three things you never want to hear from a participant? 🫢":[["Overly Positive Feedback","4"],["Hitting on You","3"],["Here for the Money","3"],["No Feedback / Disengaged ","3"],["Asking for a Job","2"],["Lied on screener","2"],["Irrelevant Feedback ","1"]],
     "What is your favorite research method?":[["Survey","4"],["Field Study/ Ethnography","3"],["Interview","2"],["Unmoderated Usability","2"],["Focus group","2"]],
-    "What are the top 3 reasons you entered UXR?":[["Anthropology/ Psychology Love","8"],["Positivie Impact/ Improvements for People","7"],["Pay","6"],["Curiousity","3"]]
+    "What are the top 3 reasons you entered UXR?":[["Anthropology/ Psychology Love","7"],["Positivie Impact/ Improvements for People","7"],["Pay","6"],["Colleagues/ The People","5"],["Curiousity","3"],["Applying Degree","3"]]
 }
 
