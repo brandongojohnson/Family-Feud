@@ -1,7 +1,9 @@
 const express = require('express');
 const app = express();
-const server = require('http').createServer(app);
-const io = require("socket.io").listen(server);
+const http = require('http');
+const server = http.createServer(app);
+const { Server } = require('socket.io');  // Destructure to get the Server constructor
+const io = new Server(server);  // Create a new instance of socket.io
 const port = Number(process.env.PORT) || 8080;
 
 server.listen(port);

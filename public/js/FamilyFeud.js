@@ -201,6 +201,10 @@ var app = {
         });
     },
     flipCard: (n) => {
+
+        const bellAudio = document.getElementById("bell")
+        bellAudio.play()
+
         console.log("card");
         console.log(n);
         var card = $('[data-id="' + n + '"]');
@@ -215,6 +219,8 @@ var app = {
         app.getBoardScore()
     },
     wrongAnswer:()=>{
+        const buzzAudio = document.getElementById("buzzer")
+        buzzAudio.play()
         app.wrong++
         console.log("wrong: "+ app.wrong )
         var wrong = app.board.find(".wrongBoard")
@@ -223,7 +229,6 @@ var app = {
         setTimeout(() => { 
             $(wrong).hide(); 
         }, 1000); 
-
     },
 
     // Socket Test
